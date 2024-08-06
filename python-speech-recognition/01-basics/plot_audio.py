@@ -1,4 +1,3 @@
-# https://learnpython.com/blog/plot-waveform-in-python/
 import wave
 import numpy as np
 import matplotlib.pyplot as plt
